@@ -1,0 +1,13 @@
+{
+  "name": "xc9-jsds",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kunal Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
