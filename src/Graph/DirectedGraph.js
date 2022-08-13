@@ -10,7 +10,7 @@ Edge.prototype.getSource = function () {
 }
 
 Edge.prototype.getDestination = function () {
-  return this.destionation;
+  return this.destination;
 }
 
 Edge.prototype.getWeight = function () {
